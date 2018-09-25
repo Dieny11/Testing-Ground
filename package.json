@@ -13,6 +13,7 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "@material-ui/core": "^3.1.1",
     "express": "^4.16.3",
     "history": "^1.17.0",
     "react-router": "^4.3.1"

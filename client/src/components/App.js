@@ -9,7 +9,7 @@ export default class extends Component {
         return <Fragment>
             <Header />
             <Articles/>
-            <Footer />
+            <Footer/>
         </Fragment>
     }
 }
