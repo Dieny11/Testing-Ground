@@ -1,9 +1,6 @@
 import React from "react"
 import {Grid } from '@material-ui/core';
-import LeftPane from "./LeftPane"
 import TwitterPane from "./TwitterPane"
-//import Twitter from  '../Layouts/Twitter'
-
 
 
 const styles={
@@ -14,7 +11,7 @@ const styles={
 export default props =>
     <Grid container>
         <Grid item sm>
-           <LeftPane styles={styles}/>
+          I AM AN PORTFOLIOOOO
         </Grid>
         <Grid item sm="2">
         <TwitterPane styles={styles}/>

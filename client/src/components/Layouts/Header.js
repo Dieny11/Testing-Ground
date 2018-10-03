@@ -11,9 +11,9 @@ export default props =>
 </Typography>
       <div style={{ right: 0, position: " absolute" }}>
         <Tabs centered>
-          <Tab label="Home Page" />
-          <Tab label="Stream" />
-          <Tab label="Me and coding" />
+          <Tab label="Home Page" href="/"/>
+          <Tab label="Stream" href="/stream"/>
+          <Tab label="Portfolio" href="/portfolio"/>
         </Tabs></div>
     </Toolbar>
   </AppBar>
